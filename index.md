@@ -2,6 +2,8 @@
 ----------------
 Reason:
 
+Name:
+
 Amount of time in server: 
 
 @failed
@@ -11,6 +13,8 @@ Amount of time in server:
 #Passed
 ----------------
 Reason:
+
+Name:
 
 Amount of time in server: 
 
